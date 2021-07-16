@@ -55,10 +55,10 @@ content:
   - title: Projektjeim # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middel
         title: Utazástervező és programajánló webalkalmazás
         link: Devon96/SzakdolgozatDeploy
-        # link_text: Project Website
+        link_text: Szakdolgozat
         additional_links:
           - title:  Devon96/SzakdolgozatDeploy
             icon: fab fa-github
@@ -67,11 +67,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Ez a program egy utazástervező és programajánló webalkalmazás mely a felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani.
+          
         description: | # this will include new lines to allow paragraphs
-          A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
+          Ez a program egy utazástervező és programajánló webalkalmazás mely eredetileg a szakdolgozat projektenek készült. felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani. A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
 
-      - layout: left
+      - layout: middel
         title: Moziüzemeltető program
         link: Devon96/mozi
         # link_text: Project Website
@@ -83,12 +83,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Az alábbi program 
+           
         description: | # this will include new lines to allow paragraphs
-          A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
+          Ez a program egy mozi üzemeltetésre használható. A projekt tartalmaz egy <mark>JavaFX</mark> és egy <mark>Java EE</mark> modult, valamint a <mark>jsp</mark> template engine-t használjs.
 
 
-  - title: Moziüzemeltető program # Title for the section
+  - title: Tanulmányaim # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
