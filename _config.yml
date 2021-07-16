@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Üdv, A nevem Béni Richárd és programtervező informatikusként végeztem a Szegedi Tudományegyetemen. Tapasztalatom nagy részét <mark>Java</mark> és <mark>Python</mark> nyelveken szereztem, szakdolgozatom címe: Cím: Utazástervező és programajánló webalkalmazás fejlesztése Spring Boot keretrendszer segítségével.
+  Üdv, A nevem Béni Richárd és programtervező informatikusként végeztem a Szegedi Tudományegyetemen. Tapasztalatom nagy részét <mark>Java</mark> és <mark>Python</mark> nyelveken szereztem, szakdolgozatom címe: Utazástervező és programajánló webalkalmazás fejlesztése Spring Boot keretrendszer segítségével.
 
 
 content:
