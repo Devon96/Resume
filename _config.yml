@@ -53,9 +53,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Projektjeink # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: top-middle # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Utazástervező és programajánló webalkalmazás
         link: github.com/Devon96
         # link_text: Project Website
