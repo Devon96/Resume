@@ -52,12 +52,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projektjeink # Title for the section
-    layout: top-middle # Type of content section (list/text)
+  - title: Projektjeim # Title for the section
+    layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Utazástervező és programajánló webalkalmazás
-        link: github.com/Devon96
+        link: Devon96/SzakdolgozatDeploy
         # link_text: Project Website
         additional_links:
           - title:  Devon96/SzakdolgozatDeploy
@@ -67,11 +67,28 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          A következő program egy utazástervező és programajánló webalkalmazás mely a felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani.
+          Ez a program egy utazástervező és programajánló webalkalmazás mely a felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani.
         description: | # this will include new lines to allow paragraphs
-          A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark> keretrendszer használatával. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
+          A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
 
-  - title: Tanulmányaim # Title for the section
+      - layout: left
+        title: Moziüzemeltető program
+        link: Devon96/mozi
+        # link_text: Project Website
+        additional_links:
+          - title:  Devon96/mozi
+            icon: fab fa-github
+            url: github.com/Devon96/mozi
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Az alábbi program 
+        description: | # this will include new lines to allow paragraphs
+          A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
+
+
+  - title: Moziüzemeltető program # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
