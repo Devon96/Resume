@@ -55,7 +55,7 @@ content:
   - title: Projektjeink # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Utazástervező és programajánló webalkalmazás
         link: github.com/Devon96
         # link_text: Project Website
