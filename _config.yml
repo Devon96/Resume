@@ -55,7 +55,7 @@ content:
   - title: Projektjeim # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middel
+      - layout: middle
         title: Utazástervező és programajánló webalkalmazás
         link: github.com/Devon96/SzakdolgozatDeploy
         link_text: Szakdolgozat
@@ -71,10 +71,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Ez a program egy utazástervező és programajánló webalkalmazás mely eredetileg a szakdolgozat projektenek készült. felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani. A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
 
-      - layout: middel
+      - layout: middle
         title: Moziüzemeltető program
         link: github.com/Devon96/mozi
-        # link_text: Project Website
+        link_text: Mozi
         additional_links:
           - title:  
             icon: fab fa-github
