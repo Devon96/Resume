@@ -15,7 +15,7 @@ email: dobi4554@gmail.com
 darkmode: false
 
 # Social links
-twitter_username: Benirics
+# twitter_username: Benirics
 github_username:  Devon96
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -52,10 +52,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Szakdolgozatom # Title for the section
+  - title: Projektjeink # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: Utazástervező és programajánló webalkalmazás
         link: github.com/Devon96
         # link_text: Project Website
