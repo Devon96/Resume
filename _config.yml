@@ -1,0 +1,99 @@
+# Site
+repository: Devon96/MyResume
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Béni Richárd Balázs
+title: Programtervező Informatikus
+email: dobi4554@gmail.com
+website: www.github.com/Devon96/MyResume
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: Benirics
+github_username:  Devon96
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: richard.beni.3
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: richárd-balázs-béni-638209208
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+# url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Üdv, A nevem Béni Richárd és programtervező informatikusként végeztem a Szegedi Tudományegyetemen. Tapasztalatom nagy részét <mark>Java</mark> és <mark>Python</mark> nyelveken szereztem, szakdolgozatom címe: Cím: Utazástervező és programajánló webalkalmazás fejlesztése Spring Boot keretrendszer segítségével.
+
+
+content:
+  - title: Szakdolgozatom # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Utazástervező és programajánló webalkalmazás
+        link: github.com/Devon96
+        # link_text: Project Website
+        additional_links:
+          - title:  Devon96/SzakdolgozatDeploy
+            icon: fab fa-github
+            url: github.com/Devon96/SzakdolgozatDeploy
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A következő program egy utazástervező és programajánló webalkalmazás mely a felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani.
+        description: | # this will include new lines to allow paragraphs
+          A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark> keretrendszer használatával. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
+
+  - title: Tanulmányaim # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Szegedi Tudományegyetem
+        caption: 2018 - 2021
+        sub_title: Programtervező informatikus BSc
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Kötelezően választható tárgyaim: Alkalmazásfejlesztés I, Alkalmazásfejlesztés II, Python programozás a gyakorlatban, Spring Üzleti Alkalmazások Fejlesztése, Adatbázis alapú rendszerek, Algoritmusok és adatszerkezetek II, Mobil alkalmazásfejlesztés, Multimédia, Webfejlesztési keretrendszerek, Diszkrét matematika II, Diszkrét matematika I, Rendszerfejlesztés, Szkriptnyelvek, Bevezetés a mobilkommunikációba, Új elvű számítások az informatikában, IT Élet – Mi vár rád a munkahelyen?
+          
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
