@@ -57,10 +57,10 @@ content:
     content:
       - layout: middel
         title: Utazástervező és programajánló webalkalmazás
-        link: Devon96/SzakdolgozatDeploy
+        link: github.com/Devon96/SzakdolgozatDeploy
         link_text: Szakdolgozat
         additional_links:
-          - title:  Devon96/SzakdolgozatDeploy
+          - title:  
             icon: fab fa-github
             url: github.com/Devon96/SzakdolgozatDeploy
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -73,10 +73,10 @@ content:
 
       - layout: middel
         title: Moziüzemeltető program
-        link: Devon96/mozi
+        link: github.com/Devon96/mozi
         # link_text: Project Website
         additional_links:
-          - title:  Devon96/mozi
+          - title:  
             icon: fab fa-github
             url: github.com/Devon96/mozi
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -85,7 +85,7 @@ content:
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          Ez a program egy mozi üzemeltetésre használható. A projekt tartalmaz egy <mark>JavaFX</mark> és egy <mark>Java EE</mark> modult, valamint a <mark>jsp</mark> template engine-t használjs.
+          Ez a program egy mozi üzemeltetésre használható. A projekt tartalmaz egy <mark>JavaFX</mark> és egy <mark>Java EE</mark> modult, valamint a <mark>jsp</mark> template engine-t használja.
 
 
   - title: Tanulmányaim # Title for the section
