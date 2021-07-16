@@ -1,5 +1,5 @@
 # Site
-repository: Devon96/MyResume
+repository: Devon96/Resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Béni Richárd Balázs
 title: Programtervező Informatikus
 email: dobi4554@gmail.com
-website: www.github.com/Devon96/MyResume
+# website: www.github.com/Devon96/MyResume
 
 # Dark Mode (true/false/never)
 darkmode: false
