@@ -69,7 +69,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Ez a program egy utazástervező és programajánló webalkalmazás mely eredetileg a szakdolgozat projektenek készült. felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani. A program <mark>Java</mark> nyelven íródott többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszert használatál. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
+          Ez a program egy utazástervező és programajánló webalkalmazás, mely eredetileg a szakdolgozat projektemek készült. Felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani. A program <mark>Java</mark> nyelven íródott, többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszereket használ. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
 
       - layout: top-middle
         title: Moziüzemeltető program
@@ -85,7 +85,7 @@ content:
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          Ez a program egy mozi üzemeltetésre használható. A projekt tartalmaz egy <mark>JavaFX</mark> és egy <mark>Java EE</mark> modult, valamint a <mark>jsp</mark> template engine-t használja.
+          A projekt tartalmaz egy <mark>JavaFX</mark> és egy <mark>Java EE</mark> modult, valamint a <mark>jsp</mark> template engine-t használja.
 
 
   - title: Tanulmányaim # Title for the section
