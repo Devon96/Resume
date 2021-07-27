@@ -72,6 +72,24 @@ content:
           Ez a program egy utazástervező és programajánló webalkalmazás, mely eredetileg a szakdolgozat projektemnek készült. Felhasználó izlésvilágának megfelelően próbál személyreszabott programjavaslatokat ajánlani. A program <mark>Java</mark> nyelven íródott, többek között <mark>Spring</mark>, <mark>jQuery</mark>, <mark>hymeleaf</mark> keretrendszereket használ. A Google API-kulcsok deaktiválása miatt néhány funkció már nem üzemel.
 
       - layout: top-middle
+        title: Movie Comparator
+        link: github.com/Devon96/movieComparator
+        link_text: MovieComparator
+        additional_links:
+          - title:  
+            icon: fab fa-github
+            url: github.com/Devon96/movieComparator
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          A Movie Comparator egy filmeket és sorozatokat összehasonlító program, mely az <mark>Angular 9</mark> keretrendszer használatával készült. A film és sorozat adatok az <mark>OMDb API</mark> RESTful webszolgáltatástól származnak.
+
+
+
+      - layout: top-middle
         title: Moziüzemeltető program
         link: github.com/Devon96/mozi
         link_text: Mozi
