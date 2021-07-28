@@ -12,7 +12,7 @@ email: richardbeniwork@gmail.com
 # website: www.github.com/Devon96/MyResume
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: Benirics
@@ -30,9 +30,9 @@ linkedin_username: richárd-balázs-béni-638209208
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
 # url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
