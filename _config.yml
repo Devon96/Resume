@@ -41,7 +41,7 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: "G-0NB8WLH9HK"
 # google_analytics: "UA-00000000-0"
 
 # About Section
